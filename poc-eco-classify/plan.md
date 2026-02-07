@@ -213,9 +213,11 @@ uv pip install -r requirements.txt
 1. Create `sampledata.yaml` (60 articles with ground truth) ✅
 2. Create `labels.yaml` (9 category definitions) ✅
 3. Create `eco_ref_sentences.txt` (12 reference sentences) ✅
-4. Create `requirements.txt`
-5. Setup venv + install deps
-6. Create `method_embedding.py`
-7. Create `method_zeroshot.py` (reads `labels.yaml`)
-8. Create `benchmark.py` (reads `sampledata.yaml` for articles + ground truth)
-9. Run benchmark, review results
+4. Create `requirements.txt` ✅
+5. Setup venv + install deps ✅
+6. Create `method_embedding.py` ✅
+7. Create `method_zeroshot.py` (reads `labels.yaml`) ✅
+8. Create `benchmark.py` (reads `sampledata.yaml` for articles + ground truth) ✅
+9. Run benchmark, review results ✅
+
+**Note:** Full benchmark loads both models (~80MB + ~1.6GB). If the process is killed (e.g. exit 138), try `python benchmark.py --embedding-only` to run only the embedding method.

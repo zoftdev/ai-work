@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:openclaw.ai)",
+      "WebFetch(domain:docs.openclaw.ai)",
+      "Bash(sysctl:*)",
+      "Bash(vm_stat:*)",
+      "Bash(.venv/bin/python:*)"
+    ]
+  }
+}
