@@ -1,0 +1,20 @@
+# Local config (may contain custom paths)
+config.yaml
+
+# Generated / local data
+data/*.yaml
+data/processed_urls.txt
+
+# UV / Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.python-version
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo

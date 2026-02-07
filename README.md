@@ -4,6 +4,16 @@ AI-assisted work projects and automation scripts.
 
 ## Projects
 
+### [googlenews-fetch-news](./googlenews-fetch-news/)
+Fetch Google News article metadata from whitelisted publishers. Stage 1: metadata only; output in YAML. Content fetch and summarization are external.
+
+**Quick Start:**
+```bash
+cd googlenews-fetch-news
+uv sync
+./fetch.sh
+```
+
 ### [google-news-check](./google-news-check/)
 ETF news publisher analysis tool. Fetches and analyzes Google News articles to identify publishers worth following based on coverage patterns.
 

@@ -1,0 +1,4 @@
+# Copy to config.yaml and adjust. config.yaml is git-ignored.
+# Data path priority: --data-dir CLI arg > config.yaml data_dir > default "data"
+
+data_dir: data
