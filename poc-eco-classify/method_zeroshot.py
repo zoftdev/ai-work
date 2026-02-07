@@ -34,7 +34,7 @@ def classify(
     target, label_list = _load_labels(labels_file)
     pipe = pipeline(
         "zero-shot-classification",
-        model="facebook/bart-large-mnli",
+        model="MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli",
         device=-1,
     )
 
