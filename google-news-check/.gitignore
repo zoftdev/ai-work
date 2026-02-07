@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+venv/
+__pycache__/
+
+# Data files (generated)
+*.json
+*.csv
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
