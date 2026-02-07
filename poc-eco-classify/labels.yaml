@@ -1,0 +1,18 @@
+# Labels for zero-shot classification
+# The model scores each article against all candidate labels
+# An article is "economic" if the target label wins or scores above threshold
+
+# The label we want to detect
+target: economic
+
+# All candidate labels the model chooses from
+categories:
+  economic: "economic news about GDP, inflation, interest rates, employment, trade, fiscal policy, and macroeconomic indicators"
+  finance: "financial markets news about stocks, ETFs, earnings, crypto, and investment products"
+  technology: "technology news about product launches, software, AI, and tech companies"
+  science: "science news about research, discoveries, and space exploration"
+  sports: "sports news about games, tournaments, athletes, and competitions"
+  entertainment: "entertainment news about movies, music, TV shows, and celebrities"
+  health: "health and medical news about treatments, diseases, and public health"
+  disaster: "natural disaster and extreme weather news about earthquakes, floods, wildfires, and storms"
+  politics: "political news about government, legislation, and policy not related to economy"

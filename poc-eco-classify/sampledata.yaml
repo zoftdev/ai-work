@@ -1,0 +1,120 @@
+- title: "US GDP Grows 3.2% in Q4, Beating Expectations"
+  answer: economic
+- title: "Federal Reserve Holds Interest Rates Steady Amid Inflation Concerns"
+  answer: economic
+- title: "Consumer Price Index Rises 0.4% in January, Above Forecasts"
+  answer: economic
+- title: "Unemployment Claims Drop to 3-Year Low at 210,000"
+  answer: economic
+- title: "US Trade Deficit Widens to $78 Billion as Imports Surge"
+  answer: economic
+- title: "Housing Starts Fall 5% as Mortgage Rates Hit 7.2%"
+  answer: economic
+- title: "Consumer Spending Rises 0.7% in December, Boosting Growth Outlook"
+  answer: economic
+- title: "Congress Debates New Tax Plan Targeting Corporate Profits"
+  answer: economic
+- title: "Retail Sales Jump 1.2% in Holiday Season, Topping Estimates"
+  answer: economic
+- title: "Factory Output Contracts for Third Straight Month"
+  answer: economic
+- title: "Wage Growth Accelerates to 4.5%, Outpacing Inflation"
+  answer: economic
+- title: "Euro Zone Enters Recession After Two Quarters of Contraction"
+  answer: economic
+- title: "Oil Prices Surge After OPEC Announces Production Cuts"
+  answer: economic
+- title: "China's Economy Slows as Manufacturing PMI Falls Below 50"
+  answer: economic
+- title: "Bank of Japan Ends Negative Interest Rate Policy"
+  answer: economic
+- title: "US Budget Deficit Reaches $1.7 Trillion for Fiscal Year"
+  answer: economic
+- title: "Small Business Confidence Index Drops to Lowest Since 2020"
+  answer: economic
+- title: "Treasury Yields Jump as Investors Bet on Higher Rates"
+  answer: economic
+- title: "Durable Goods Orders Rise 1.4%, Signaling Business Investment"
+  answer: economic
+- title: "US Productivity Growth Hits 5-Year High in Q3"
+  answer: economic
+- title: "Global Supply Chain Disruptions Ease as Shipping Costs Decline"
+  answer: economic
+- title: "IMF Downgrades World Economic Growth Forecast to 2.9%"
+  answer: economic
+- title: "Personal Income Rises 0.3% but Savings Rate Falls"
+  answer: economic
+- title: "New Home Sales Surge 8% as Builders Offer Rate Buydowns"
+  answer: economic
+- title: "Federal Minimum Wage Debate Heats Up in Senate"
+  answer: economic
+- title: "Initial Jobless Claims Spike Amid Tech Sector Layoffs"
+  answer: economic
+- title: "Core PCE Inflation Holds at 2.8%, Above Fed Target"
+  answer: economic
+- title: "US Manufacturing ISM Index Unexpectedly Expands to 51.2"
+  answer: economic
+- title: "Baltic Dry Index Plunges Signaling Weakening Global Trade"
+  answer: economic
+- title: "Student Loan Payments Resume, Dragging on Consumer Spending"
+  answer: economic
+- title: "Apple Launches New iPhone 17 Pro with Advanced AI Features"
+  answer: technology
+- title: "SpaceX Successfully Lands Starship After Orbital Flight"
+  answer: science
+- title: "Golden State Warriors Win NBA Championship in Game 7"
+  answer: sports
+- title: "Netflix Adds 13 Million Subscribers in Record Quarter"
+  answer: entertainment
+- title: "New Study Links Ultra-Processed Food to Heart Disease Risk"
+  answer: health
+- title: "NASA's James Webb Telescope Discovers New Exoplanet"
+  answer: science
+- title: "Taylor Swift Announces New World Tour Dates for 2026"
+  answer: entertainment
+- title: "Meta Unveils Next-Generation VR Headset at Connect Conference"
+  answer: technology
+- title: "Severe Thunderstorms Expected Across Midwest This Weekend"
+  answer: disaster
+- title: "OpenAI Releases GPT-5 with Improved Reasoning Capabilities"
+  answer: technology
+- title: "Olympic Committee Confirms New Sports for 2028 Los Angeles Games"
+  answer: sports
+- title: "Marvel Studios Announces Phase 7 Movie Lineup"
+  answer: entertainment
+- title: "Scientists Achieve Breakthrough in Quantum Computing"
+  answer: science
+- title: "Wildfire in California Forces Evacuation of 50,000 Residents"
+  answer: disaster
+- title: "Bitcoin ETF Sees Record Inflows of $1.2 Billion in Single Day"
+  answer: finance
+- title: "Tesla Recalls 500,000 Vehicles Over Autopilot Software Issue"
+  answer: technology
+- title: "Champions League Final Draws Record Global TV Audience"
+  answer: sports
+- title: "Pfizer Announces New Cancer Treatment Shows Promise in Trials"
+  answer: health
+- title: "AI-Generated Art Wins First Prize at International Competition"
+  answer: technology
+- title: "Major Earthquake Strikes Turkey, Rescue Operations Underway"
+  answer: disaster
+- title: "Samsung Launches Galaxy S26 with Foldable Display"
+  answer: technology
+- title: "Tour de France 2026 Route Revealed with New Mountain Stages"
+  answer: sports
+- title: "Disney Plus Surpasses 200 Million Global Subscribers"
+  answer: entertainment
+- title: "Researchers Develop New Plastic-Eating Enzyme"
+  answer: science
+- title: "Google DeepMind AI Solves New Mathematical Theorem"
+  answer: science
+- title: "NVIDIA Stock Jumps 15% After Blowout Earnings Report"
+  answer: finance
+- title: "Historic Flooding in Brazil Displaces Thousands"
+  answer: disaster
+- title: "World Health Organization Declares End of Mpox Emergency"
+  answer: health
+- title: "SpaceX Starlink Reaches 5 Million Users Worldwide"
+  answer: technology
+- title: "New York City Bans Gas Stoves in All New Construction"
+  answer: politics
